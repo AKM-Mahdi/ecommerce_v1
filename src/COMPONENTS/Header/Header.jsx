@@ -3,7 +3,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import logo from "../../ASSETS/SITE_IDENTITY/logo.png";
 import { BsBasket2Fill } from "react-icons/bs";
-import { BiSearch, BiMenu, BiMap } from "react-icons/bi";
+import { BiSearch, BiMap } from "react-icons/bi";
 
 import "./Header.css";
 const Header = () => {
